@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
+![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm ANEEK HAZRA
 
