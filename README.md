@@ -68,7 +68,7 @@ const aboutMe = {
 <p align="center">
 	<a href="https://www.linkedin.com/in/aneek-hazra-6630b6261/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Aneek Hazra" width="160" /></a>
 	<a href="https://www.instagram.com/_an_ee_k_/?__pwa=1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Aneek Hazra" width="150" /></a>
-	<a href="https://www.leetcode.com/swarnab_code" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="swarnab_code" width="120" /></a>
+	<a href="https://leetcode.com/u/Aneek_Hazra/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="Aneek_Hazra" width="120" /></a>
 </p>
 
 
