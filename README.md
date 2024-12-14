@@ -47,7 +47,7 @@ const aboutMe = {
   ],
 };
 ```
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
 - 🔭 My newest side project is currently still in progress mode 🤫
 
 - 🔭 I’m currently working on **a Book-Store website**
