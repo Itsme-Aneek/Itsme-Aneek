@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
+
 # <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello World, I'm ANEEK HAZRA
 
 [![](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Developer;Experienced%20Software%20Developer;2%2B%20years%20of%20Coding%20Experience;Language%20Independent;Always%20learning%20new%20things&font=Poppins&center=true&width=440&height=45&color=3382ed&size=22&pause=1000)](https://github.com/Itsme-Aneek)
