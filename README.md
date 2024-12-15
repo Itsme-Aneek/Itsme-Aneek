@@ -27,10 +27,10 @@ const aboutMe = {
         framework: "React.js",
         metaFramework: "Next.js",
       },
-      css: ["Tailwind CSS", "CSS-in-JSS", "Radix UI", "SASS"],
+      css: ["Tailwind CSS", "CSS-in-JSS", "SASS"],
     },
     backEnd: {
-      framework: ["Node.js", "Express.js", "Nest.js"],
+      framework: ["Node.js", "Express.js"],
       orm: [ "Mongoose"],
       baas: ["Firebase"],
     },
