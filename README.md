@@ -79,7 +79,7 @@ const aboutMe = {
 ## 📊 GitHub Stats:
 
 <a align="center" href="https://github.com/Itsme-Aneek"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itsme-Aneek&stroke=ec4899&background=0d1117&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-<a align="center" href="https://github.com/Itsme-Aneek"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Itsme-Aneek&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="SUBID's GitHub stats" /></a>
+<a align="center" href="https://github.com/Itsme-Aneek"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Itsme-Aneek&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="ANEEK's GitHub stats" /></a>
 <a align="center" href="https://github.com/Itsme-Aneek">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsme-Aneek&langs_count=8&layout=compact&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true"/>
 </a>
