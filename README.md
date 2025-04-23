@@ -60,7 +60,7 @@ const aboutMe = {
 
 - 💬 Ask me about **Full-Stack**
 
-- 📫 How to reach me **aneekhazra124@gmail.com** or **aneekhazra124@flash**
+- 📫 How to reach me **aneekhazra124@gmail.com** or **aneekhazra124@flash.co**
 
 - ⚡ Fun fact **🖥️ I talk to my code. Sometimes it talks back… with errors.**
 
