@@ -61,7 +61,7 @@ const aboutMe = {
 
 - 🌱 I’m currently learning **⚡ MERN Stack** , **🌐 Web Development** , **🖌️ UI/UX Design** , **🤖 Machine Learning** , **☁️ Cloud Computing**
 
-- 🤝 I’m looking for help with **In Searching Mode**
+- 🤝 I’m looking for help with **Car Showcase Web Application**
 
 - 💬 Ask me about **Full-Stack**
 
